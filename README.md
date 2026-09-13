@@ -4,7 +4,7 @@ A modern and responsive **Notes Management Application** built with **React and 
 
 ## 🌐 Live Demo
 
-**Coming soon**
+https://mobin977.github.io/note-nest/
 
 ## 📂 GitHub Repository
 
